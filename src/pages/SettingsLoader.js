@@ -7,6 +7,7 @@ class SettingsLoader extends Component {
   
   //LIFECYLE FOR INITIAL LOAD
   //Runs only once
+  //Runs automatically when the component is rendered on the screen.
   componentDidMount = () => {
     //May want to load local storage.
     //May want to validate date or time.
