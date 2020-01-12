@@ -1,0 +1,28 @@
+
+/* ------------------------------ */
+/* Default Values */
+/* ------------------------------ */
+
+
+
+/* ------------------------------ */
+/* Links */
+/* ------------------------------ */
+
+
+a {
+  text-decoration: none;
+  padding: 10%;
+}
+a:link {
+    color: rgb(143,153,171);
+}
+a:visited {
+    color: whitesmoke;
+}
+a:hover {
+    color: rgb(6,135,255);
+}
+a:active {
+    color: rgb(5,122,229);
+}
